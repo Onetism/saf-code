@@ -6,17 +6,23 @@ Intensity-Robust Autofocus for Spike Camera
 
 CVPR 2024
 
-### Environment
+## Environment
+
 Install the [Matlab](https://www.mathworks.com/products/matlab.html)  for your system. 
 
-### Download the dataset
+## Usage
+
+### 1. Download the source code to the your machine. 
+
+```bash
+git clone https://github.com/Onetism/saf-code.git
+```
+### 2. Download the dataset
+
 [https://drive.google.com/file/d/1WTjYB-PfN1pq4U7130yWqdImiolAS5Se/view?usp=drive_link]
 
-### Usage
-We provide the Matlab code of this work. Simply run the `main.m` you can get the results. Please follow below steps:
-1. download the SAD dataset provided on the project page
-2. extract dataset to the project directory.
-5. run the code
+### 3. Extract dataset to the project directory.
+### 4. Simply run the `main.m`, you can get the results.
 
 ### BibTex
 Please cite our work if you use the data or our code.
