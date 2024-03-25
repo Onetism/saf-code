@@ -24,7 +24,7 @@ git clone https://github.com/Onetism/saf-code.git
 #### 3. Extract dataset to the project directory.
 #### 4. Simply run the `main.m`, you can get the results.
 
-### BibTex
+## BibTex
 Please cite our work if you use the data or our code.
 ```
 @inproceedings{su2024autofocus,
